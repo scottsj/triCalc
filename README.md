@@ -1,0 +1,2 @@
+# triCalc
+Triathlon Calculator website
